@@ -9,9 +9,11 @@ Maintain a clear execution roadmap for **american-football-prediction-betting-sy
 
 ## Current Baseline
 - Stack: Python
-- Codebase scan size: 47 files (capped)
+- Codebase scan size: 48 files (capped)
 - Test signal: Test-named files detected
 - CI workflows present: Yes
+- GitHub Remote: igor-kan/american-football-prediction-betting-system
+- GitHub Last Push: 2026-04-21T21:08:55Z
 
 ## Milestones
 1. Stabilize

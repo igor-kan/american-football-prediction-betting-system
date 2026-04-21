@@ -23,6 +23,14 @@ This file contains repository-specific working guidance for coding agents collab
 - Purpose: Repository for American Football outcome prediction and betting workflows using publicly available data.
 - Primary Stack: Python
 
+## External Research Signals
+- Origin Remote: `https://github.com/igor-kan/american-football-prediction-betting-system.git`
+- GitHub Slug: `igor-kan/american-football-prediction-betting-system`
+- GitHub Description: Not available
+- GitHub Homepage: Not set
+- GitHub Topics: None detected
+- GitHub Last Push Timestamp: 2026-04-21T21:08:55Z
+
 ## Local Commands
 Setup:
 - `python3 -m pip install -r requirements.txt`
